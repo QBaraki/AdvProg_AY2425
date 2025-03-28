@@ -24,3 +24,12 @@ Cụ thể là đoạn code đang cố gán địa chỉ của `c` có kiểu `c
 
 [Source code](C.cpp)
 
+## D. Trắc nghiệm
+
+1. ii
+2. iii
+3. ii iii
+4. ii
+5. iv
+6. i
+7. iii
