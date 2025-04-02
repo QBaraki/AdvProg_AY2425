@@ -1,6 +1,6 @@
 #include <iostream>
 
-int BinarySearch(int a[], int n, int l, int r, int target) {
+int BinarySearch(int* a, int n, int l, int r, int target) {
   if (l > r) {
     return -1;
   }
